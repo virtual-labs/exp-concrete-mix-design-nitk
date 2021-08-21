@@ -66,5 +66,5 @@ For every ±0.05 change in w/c, the coarse aggregate proportion is to be changed
 
 #### Relevant Indian standard:
 1. IS:456-2000: Plain and Reinforced Concrete Code of Practice, 4<sup>th</sup> Revision, 2000.
-2. IS:10262-2009: Concrete Mix Proportioning Guidelines, First Revision, 2009.
+2. IS-10262:2019: Concrete Mix Proportioning Guidelines, First Revision, 2019.
 <br>
